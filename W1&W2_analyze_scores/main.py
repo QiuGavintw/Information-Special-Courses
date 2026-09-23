@@ -9,4 +9,3 @@ print("高於平均：", above_average)
 # 2. 建立排行榜
 ranking = sorted(scores, reverse=True)
 print("排行榜：", ranking)
-
