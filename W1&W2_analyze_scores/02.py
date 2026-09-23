@@ -1,4 +1,4 @@
-#0909-base
+#Main program: analyze_scores.py
 scores = [78, 92, 65, 88, 73, 95, 81, 69, 84, 90 ,10 ,10]
 
 highest = max(scores)
