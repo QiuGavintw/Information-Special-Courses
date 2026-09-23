@@ -1,8 +1,8 @@
-# Class Score Analyzer
+# Analyze_scores
 
 ## 作品名稱
 
-**Class Score Analyzer**
+**Analyze_scores**
 
 ## 我要解決的問題
 
