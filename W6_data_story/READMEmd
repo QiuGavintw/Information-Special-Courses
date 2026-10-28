@@ -1,0 +1,33 @@
+# W6
+
+## 作品名稱
+
+**data_story**
+
+
+## 我要解決的問題
+
+- 使用 Python 讀取新聞，並進行詞頻計數分析。
+
+
+## 使用到的技術
+
+###  Python / CSV / set.title / set_xlabel / set_ylabel / tight_layout / savefig
+
+## 我遇到的問題與如何解決
+
+### 1. 中文字型
+
+使用`plt.rcParams["font.sans-serif"] = ["Microsoft JhengHei"] 
+plt.rcParams["axes.unicode_minus"] = False`
+
+
+## 我學到了什麼
+
+### 三種圖表的製作
+- 長條圖 
+- 折線圖
+- 散佈圖
+
+
+— By 邱冠元 2026/10/28
