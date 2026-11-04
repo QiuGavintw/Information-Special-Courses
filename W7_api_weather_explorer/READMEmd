@@ -1,0 +1,29 @@
+# W7
+
+## 作品名稱
+
+**api_weather_explorer**
+
+
+## 我要解決的問題
+
+- 使用 Python 透過 API 抓取線上資料讀取並分析
+
+## 使用到的技術
+
+###  Python / API / requests.get / requests / response.raise_for_status / response.status_code / response.json
+
+## 我遇到的問題與如何解決
+
+### 1. 有雙層大括號不了解要如何讀取資料
+
+使用像是洋蔥剝皮的方式，先取出小字典，再讀取資料。
+
+
+## 我學到了什麼
+
+- ### 從網頁透過API讀取資料
+
+- ### 讀取雙大括號內的資料
+
+— By 邱冠元 2026/11/4
